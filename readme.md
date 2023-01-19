@@ -27,7 +27,7 @@ This repository contains three folders:
   * ProfessionalSystem: folder containing data from the professional system
 * SamplingFrequencyStability: folder containing the data used in the sampling frequency stability analysis and the code used to generate the results shown in the paper
 * Source codes & schematics:
-  * Arduino_Required_libraries: folder containing the libraries used in the Arduino source code. Check [arduino.cc to ](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries) to see how to install libraries to your Arduino IDE.
+  * Arduino_Required_libraries: folder containing the libraries used in the Arduino source code. Check [arduino.cc](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries) to see how to install libraries to your Arduino IDE.
   * Version_A-isolatedNodes: folder with information about Version A, as described in the paper
     *  Schematics: a Fritzing (.fzz) schematics of the system
     *  Source codes: a Arduino source code (.ino) file of the system
