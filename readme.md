@@ -1,7 +1,7 @@
 # INTRODUCTION
 
 This is the official repository of the resources related to the paper "A low-cost wireless multi-node vibration monitoring system for civil structures", by 
-Renan Rocha Ribeiro, Rafael de Almeida Sobral, Ian Barreto Cavalcante, Luís Augusto Conte Mendes Veloso, and Rodrigo de Melo Lameiras, from University of Brasília, published in XXXXX.
+Renan Rocha Ribeiro, Rafael de Almeida Sobral, Ian Barreto Cavalcante, Luís Augusto Conte Mendes Veloso, and Rodrigo de Melo Lameiras, from University of Brasília, published in the journal Structural Control and Health MOnitoring (DOI to come).
 
 This work refers to the proposal and investigation of a minimal and simple functional system, based on Arduino and ready-to-use components found in any electronics supply store,
 modal identification of civil structures (e.g., slabs, beams, bridges, buildings, etc) in an Operation Modal Analysis framework.
